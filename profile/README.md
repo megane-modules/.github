@@ -10,12 +10,6 @@ Check out [**@badasintended/megane**](https://github.com/badasintended/megane) f
 After cloning a megane module you would need to run the `setup` shell script, then you can build with `gradlew build` or import the project to an IDE.
 The `setup` script should work on Git Bash if you're on Windows.
 
-### Configuration
-Configuration can be done with editing `.minecraft/config/waila/megane.json` directly or via the config screen.    
-For energy bar colors and units, `megane` value determines what's the default value.    
-**Config will get overloaded by the server**, so if the server disabled inventory tooltip, you won't see inventory tooltip regardless wether you
-enabled it or not.
-
 ### Culture
 
 Glasses are really versatile. First, you can have glasses-wearing girls take them off and suddenly become beautiful, or have girls wearing glasses
