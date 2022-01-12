@@ -6,6 +6,10 @@ megane is a [WTHIT][11] plugin that adds useful tooltips such as energy, fluid v
 This organization contains all the source code for individual modules.   
 Check out [**@badasintended/megane**](https://github.com/badasintended/megane) for the bundle that include most of them.
 
+### Module Workspace
+After cloning a megane module you would need to run the `setup` shell script, then you can build with `gradlew build` or import the project to an IDE.
+The `setup` script should work on Git Bash if you're on Windows.
+
 ### Configuration
 Configuration can be done with editing `.minecraft/config/waila/megane.json` directly or via the config screen.    
 For energy bar colors and units, `megane` value determines what's the default value.    
