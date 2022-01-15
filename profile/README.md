@@ -2,9 +2,12 @@
 
 megane is a [WTHIT][11] plugin that adds useful tooltips such as energy, fluid volumes, and inventory contents.
 
+### **All issue should go to [@badasintended/megane](https://github.com/badasintended/megane)**
+
 ### GitHub Organization
 This organization contains all the source code for individual modules.   
-Check out [**@badasintended/megane**](https://github.com/badasintended/megane) for the bundle that include most of them.
+Check out [**@badasintended/megane**](https://github.com/badasintended/megane) for the bundle that include most of them.    
+
 
 ### Module Workspace
 After cloning a megane module you would need to run the `setup` shell script, then you can build with `gradlew build` or import the project to an IDE.
