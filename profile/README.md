@@ -1,3 +1,9 @@
+# [modules moved to monorepo (again) since i upgraded my pc](https://github.com/badasintended/megane)
+
+<details>
+  
+<summary>old readme</summary>
+
 # めがね [![1][1]][6]  [![2][2]][4]  [![3][3]][5] [![14][14]][15] <img src="https://user-images.githubusercontent.com/21150434/122664496-ff7ed300-d1cb-11eb-871a-6671514f01ed.png" align="right"/>
 
 megane is a [WTHIT][11] plugin that adds useful tooltips such as energy, fluid volumes, and inventory contents.
@@ -23,6 +29,8 @@ is a lot of fun too! It's actually so much fun! You have those half rim glasses,
 these kinds of glasses at a buffet. I really want Luna to try some on or Marine to try some on to replace her eyepatch. We really need glasses to
 become a thing in hololive and start selling them for HoloComi. Don't. You. Think. We. Really. Need. To. Officially. Give. Everyone. Glasses?
 
+</details>
+  
 [1]: https://img.shields.io/badge/minecraft-1.16+-brightgreen
 [2]: https://img.shields.io/badge/loader-Fabric-blue
 [3]: https://img.shields.io/badge/code_quality-F-red
